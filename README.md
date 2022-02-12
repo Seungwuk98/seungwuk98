@@ -1,5 +1,5 @@
-<p align="center" style="size:50px">SeungWukEun</p>
------------------------------------------
+<p align="center" style="font-size:50px">SeungWukEun</p>
+
 <h3 align="center">🛠기술🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
