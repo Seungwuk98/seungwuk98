@@ -14,6 +14,9 @@
 <a href="https://www.instagram.com/seungwukeun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCUxQp32ZsyJnLxvFnwul2lQ" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 </p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=seungwuk98)](https://solved.ac/seungwuk98)
   
   
 # 어떤 사람인가요?
