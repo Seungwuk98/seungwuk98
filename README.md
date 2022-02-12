@@ -16,8 +16,7 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=seungwuk98)](https://solved.ac/seungwuk98)
-  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungwuk98)](https://solved.ac/seungwuk98)
   
 # 어떤 사람인가요?
 1. 개발자를 지망합니다.
