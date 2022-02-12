@@ -16,7 +16,9 @@
 </p>
 -----------------------------------
 <h3 align="center">OJ</h3>
+<p align="center">
 <a href="https://solved.ac/profile/seungwuk98"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=seungwuk98"></a><br>
+</p>
 
 # 어떤 사람인가요?
 1. 개발자를 지망합니다.
