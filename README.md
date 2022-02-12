@@ -36,6 +36,9 @@
 >       > 1. 현재는 클론코딩으로 공부 중입니다.
 ---------------------------------------
 
-![trophy](https://github-profile-trophy.vercel.app/?username=seungwuk98)
+<p align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=seungwuk98)
 ![seungwuk98's github stats](https://github-readme-stats.vercel.app/api?username=seungwuk98&show_icons=true)
 [![seungwuk98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwuk98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seungwuk98)
+</p>
+
