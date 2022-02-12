@@ -1,4 +1,4 @@
-<div align="center" size="50px">SeungWukEun</div>
+# SeungWukEun
 
 <h3 align="center">🛠기술🛠</h3>
 <p align="center">
@@ -21,6 +21,7 @@
 2. 공부가 좋습니다.
 3. 만드는 것도 좋아합니다.
 4. 알고리즘이 너무 좋습니다.
+5. 알고리즘 유튜브 하고 있습니다.
 
 # 어떻게 공부하나요?
 ##### 분야에 따라서 조금 다릅니다.
