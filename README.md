@@ -1,4 +1,4 @@
-SeungWukEun
+<p align="center" style="size:30px">SeungWukEun</p>
 ===========
 <h3 align="center">🛠기술🛠</h3>
 <p align="center">
@@ -34,8 +34,6 @@ SeungWukEun
 > 2. 웹
 >       > 1. 현재는 클론코딩으로 공부 중입니다.
 ---------------------------------------
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=seungwuk98)
 ![seungwuk98's github stats](https://github-readme-stats.vercel.app/api?username=seungwuk98&show_icons=true)
