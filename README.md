@@ -8,14 +8,14 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
--------------------------------------
+<hr>
 <h3 align="center">SNS</h3>
 <p align="center">
 <a href="https://www.instagram.com/seungwukeun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCUxQp32ZsyJnLxvFnwul2lQ" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a><br>
 </p>
------------------------------------
-<h3 align="center">OJ</h3>
+<hr>
+<h3 align="center">BOJ</h3>
 <p align="center">
 <a href="https://solved.ac/profile/seungwuk98"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=seungwuk98"></a><br>
 </p>
