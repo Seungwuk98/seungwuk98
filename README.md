@@ -1,4 +1,4 @@
-<p align="center" style="font-size:50px">SeungWukEun</p>
+# SeungWukEun
 
 <h3 align="center">🛠기술🛠</h3>
 <p align="center">
