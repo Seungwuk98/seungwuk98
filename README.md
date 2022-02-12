@@ -13,11 +13,9 @@
 <p align="center">
 <a href="https://www.instagram.com/seungwukeun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCUxQp32ZsyJnLxvFnwul2lQ" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://solved.ac/profile/seungwuk98"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=seungwuk98"></a><br>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungwuk98)](https://solved.ac/seungwuk98)
-  
 # 어떤 사람인가요?
 1. 개발자를 지망합니다.
 2. 공부가 좋습니다.
